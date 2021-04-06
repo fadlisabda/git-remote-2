@@ -6,6 +6,6 @@
 	<title>Coba Git Remote</title>
 </head>
 <body>
-	<?= $nama="fadli"; ?>
+	<h1>Nama Saya fadli</h1>
 </body>
 </html>
